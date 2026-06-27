@@ -121,27 +121,6 @@ python main.py
 
 ---
 
-## Project Structure
-
-```text
-Canada-income-prediction/
-│
-├── data/
-│   ├── dataset.csv
-│
-├── notebooks/
-│   └── Canada-income-prediction.ipynb
-│
-├── models/
-│
-├── images/
-│
-├── requirements.txt
-│
-├── README.md
-│
-└── main.py
-```
 
 Modify according to your actual file structure.
 
